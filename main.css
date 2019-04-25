@@ -241,4 +241,5 @@ button {
   max-width: 575px;
   padding: 0px 10px;
   margin: 100px auto;
+  margin-bottom: 0;
 }
