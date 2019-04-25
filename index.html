@@ -81,12 +81,13 @@
 </div>
 
 <script type="text/javascript">
-  document
-    .getElementsByClassName("styles__Item-s75plhz-10")
-    .addEventListener("click", toogleAccordion);
-
   var toogleAccordion = function() {
     debugger;
     console.log(this);
   };
+
+  var accordions = document.getElementsByClassName("styles__Item-s75plhz-10");
+  for (var i = 0; i < accordions.length; i++) {
+    accordions[i].addEventListener("click", toogleAccordion);
+  }
 </script>
