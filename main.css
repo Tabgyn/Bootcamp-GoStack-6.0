@@ -20,6 +20,10 @@ button {
   cursor: pointer;
 }
 
+a {
+  color: rgb(255, 255, 255);
+}
+
 .dFdkQm {
   color: rgb(139, 135, 152);
   background: url(images/background.svg) center center repeat fixed rgb(0, 0, 0);
@@ -143,6 +147,97 @@ button {
 
 .jtsELu strong {
   color: rgb(4, 211, 97);
+}
+
+.hrNGkk {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 720px;
+  text-align: center;
+  margin: 150px auto 0px;
+  padding: 0px 20px;
+}
+
+.hrNGkk section {
+  display: flex;
+  background-color: rgb(20, 18, 25);
+  width: 100%;
+  max-width: 490px;
+  text-align: left;
+  padding: 50px;
+  margin: 10px 0px 50px;
+  border-radius: 5px;
+}
+
+.hrNGkk section h1 {
+  position: relative;
+  margin-right: 50px;
+}
+
+.hrNGkk section h1 img {
+  width: 150px;
+  height: auto;
+}
+
+.hrNGkk section article {
+  display: flex;
+  flex-direction: column;
+}
+
+.hrNGkk section article h2 {
+  font-size: 25px;
+  line-height: 33px;
+  color: rgb(0, 232, 104);
+}
+
+.hrNGkk section article span {
+  font-size: 16px;
+  line-height: 31px;
+  color: rgb(103, 106, 115);
+  margin: 5px 0px 30px;
+}
+
+.hrNGkk section article > div {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.hrNGkk section article > div a {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background-color: rgb(4, 211, 97);
+  border-radius: 5px;
+}
+
+.hrNGkk section article > div a:not(:first-child) {
+  margin-left: 10px;
+}
+
+.hrNGkk section article > div a img {
+  width: 15px;
+  height: auto;
+}
+
+.hrNGkk > p {
+  font-size: 25px;
+  line-height: 50px;
+  color: rgb(234, 229, 250);
+}
+
+.hrNGkk > span {
+  font-size: 18px;
+  line-height: 30px;
+  color: rgb(170, 170, 170);
+  margin-top: 40px;
 }
 
 .becSlW {
