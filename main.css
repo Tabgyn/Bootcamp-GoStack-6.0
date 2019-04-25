@@ -231,6 +231,10 @@ button {
   overflow: hidden;
 }
 
+.cdRvBx {
+  margin-bottom: 10px;
+}
+
 .fkOrYB {
   display: flex;
   -webkit-box-pack: center;
