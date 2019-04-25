@@ -407,10 +407,13 @@ a {
   align-items: center;
   -webkit-box-pack: center;
   justify-content: center;
-  width: 40px;
+  width: fit-content;
   height: 40px;
+  padding: 5px 0;
   background-color: rgb(4, 211, 97);
   border-radius: 5px;
+  color: #000;
+  text-decoration: none;
 }
 
 .fkOrYB {
