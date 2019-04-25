@@ -391,9 +391,6 @@ a {
   transition: all 150ms linear 0s;
   overflow: hidden;
   padding: 20px 100px;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
 }
 
 .cdRvBx div strong {
