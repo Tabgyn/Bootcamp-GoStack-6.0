@@ -409,7 +409,7 @@ a {
   justify-content: center;
   width: fit-content;
   height: 40px;
-  padding: 5px 0;
+  padding: 0 10px;
   background-color: rgb(4, 211, 97);
   border-radius: 5px;
   color: #000;
@@ -419,6 +419,7 @@ a {
 .cdRvBx div a img {
   width: 15px;
   height: auto;
+  margin-right: 5px;
 }
 
 .fkOrYB {
