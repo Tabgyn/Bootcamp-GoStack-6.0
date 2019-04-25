@@ -233,6 +233,11 @@ a {
   color: rgb(234, 229, 250);
 }
 
+.hrNGkk > p strong,
+.hrNGkk > span strong {
+  color: rgb(4, 211, 97);
+}
+
 .hrNGkk > span {
   font-size: 18px;
   line-height: 30px;
