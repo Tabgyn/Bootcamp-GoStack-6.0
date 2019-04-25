@@ -235,6 +235,59 @@ button {
   margin-bottom: 10px;
 }
 
+.cdRvBx > button {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  height: 80px;
+  font-size: 24px;
+  background-color: rgb(20, 18, 25);
+  cursor: pointer;
+  user-select: none;
+  padding: 0px 35px;
+  border-radius: 5px;
+  border-width: initial;
+  border-style: none;
+  border-color: initial;
+  border-image: initial;
+  transition: opacity 150ms linear 0s;
+}
+
+.cdRvBx > button span {
+  color: rgb(0, 232, 104);
+}
+
+.cdRvBx > button strong {
+  -webkit-box-flex: 1;
+  flex-grow: 1;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  margin: 0px 30px;
+}
+
+.cdRvBx > button b {
+  width: 15px;
+  height: 15px;
+  transform: rotate(180deg);
+  border-width: initial;
+  border-style: none;
+  border-color: initial;
+  border-image: initial;
+  background: url(images/arrow-up.svg) center center no-repeat;
+}
+
+.cdRvBx p {
+  background-color: rgb(20, 18, 25);
+  color: rgb(170, 170, 170);
+  font-size: 18px;
+  line-height: 36px;
+  max-height: 1000px;
+  transition: all 150ms linear 0s;
+  overflow: hidden;
+  padding: 20px 100px;
+}
+
 .fkOrYB {
   display: flex;
   -webkit-box-pack: center;
