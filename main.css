@@ -246,7 +246,8 @@ button {
   cursor: pointer;
   user-select: none;
   padding: 0px 35px;
-  border-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
   border-width: initial;
   border-style: none;
   border-color: initial;
