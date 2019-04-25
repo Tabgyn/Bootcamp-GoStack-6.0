@@ -416,6 +416,11 @@ a {
   text-decoration: none;
 }
 
+.cdRvBx div a img {
+  width: 15px;
+  height: auto;
+}
+
 .fkOrYB {
   display: flex;
   -webkit-box-pack: center;
