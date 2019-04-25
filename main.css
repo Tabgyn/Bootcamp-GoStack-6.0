@@ -391,7 +391,6 @@ a {
   transition: all 150ms linear 0s;
   overflow: hidden;
   padding: 20px 100px;
-  margin-block-start: 1em;
   margin-block-end: 1em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
@@ -414,6 +413,7 @@ a {
   border-radius: 5px;
   color: #000;
   text-decoration: none;
+  margin-bottom: 20px;
 }
 
 .cdRvBx div a img {
