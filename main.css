@@ -329,10 +329,6 @@ a {
   padding: 0px 100px;
   transition: all 150ms linear 0s;
   overflow: hidden;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
 }
 
 .cdRvBx {
