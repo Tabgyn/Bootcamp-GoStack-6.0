@@ -335,22 +335,6 @@ a {
   margin-inline-end: 0px;
 }
 
-.gzsqVk div strong {
-  color: rgb(0, 232, 104);
-}
-
-.gzsqVk div a {
-  display: flex;
-  -webkit-box-align: center;
-  align-items: center;
-  -webkit-box-pack: center;
-  justify-content: center;
-  width: 40px;
-  height: 40px;
-  background-color: rgb(4, 211, 97);
-  border-radius: 5px;
-}
-
 .cdRvBx {
   margin-bottom: 10px;
 }
@@ -398,7 +382,7 @@ a {
   background: url(images/arrow-up.svg) center center no-repeat;
 }
 
-.cdRvBx p {
+.cdRvBx div {
   background-color: rgb(20, 18, 25);
   color: rgb(170, 170, 170);
   font-size: 18px;
@@ -407,6 +391,26 @@ a {
   transition: all 150ms linear 0s;
   overflow: hidden;
   padding: 20px 100px;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.cdRvBx div strong {
+  color: rgb(0, 232, 104);
+}
+
+.cdRvBx div a {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background-color: rgb(4, 211, 97);
+  border-radius: 5px;
 }
 
 .fkOrYB {
